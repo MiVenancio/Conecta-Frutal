@@ -1,0 +1,16 @@
+MENU
+
+Hierarquia do HTML
+
+header > nav > ul > li > a (ancôr) ele cria uma conexão com outra página ou outro HTML
+
+href - Para "puxar" um arquivo ou site utilizando ./ ou url inteira nas ""
+
+
+SITE
+HOSTING - EM UM SERVIDOR
+DOMÍNIO - 
+DNS - CONEXÃO COM O SERVIDOR PARA TRANSF. IP EM URL
+
+FLEXBOX
+
