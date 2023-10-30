@@ -82,3 +82,10 @@ body{
 .image-container img:hover{
     transform: scale(1.1);
 }
+
+.container-mapa{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
